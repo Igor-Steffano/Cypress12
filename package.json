@@ -4,7 +4,7 @@
   "description": "Course about Cypress 12, Cucumber and POM.",
   "main": "index.js",
   "scripts": {
-    "runner": "cypress open"
+    "runner": "cypress open --e2e --browser chrome"
   },
   "keywords": [
     "cypress",
