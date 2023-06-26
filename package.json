@@ -1,0 +1,23 @@
+{
+  "name": "cypress12",
+  "version": "1.0.0",
+  "description": "Course about Cypress 12, Cucumber and POM.",
+  "main": "index.js",
+  "scripts": {
+    "runner": "cypress open"
+  },
+  "keywords": [
+    "cypress",
+    "javascript",
+    "typescript",
+    "testing",
+    "cucumber",
+    "pom"
+  ],
+  "author": "Igor Steffano",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.15.0",
+    "typescript": "^5.1.3"
+  }
+}
